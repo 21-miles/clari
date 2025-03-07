@@ -5,7 +5,6 @@ const nextConfig = {
   reactStrictMode: false,
   output: "export",
   trailingSlash: true,
-  swcMinify: true,
   assetPrefix: isProd ? process.env.WEBSITE_URL : "",
 };
 
