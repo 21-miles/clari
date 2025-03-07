@@ -48,7 +48,7 @@
       "slug": "Register Authentication",
       "name": "Register Authentication",
       "image": {
-        "url": "https://clariana.netlify.app/img/authentication.png",
+        "url": "imgs/authentication.png",
         "alt": "Página Inicial do Site da Natura Brasil"
       }
     },
@@ -56,7 +56,7 @@
       "slug": "API Weather Forecast",
       "name": "API Weather Forecast",
       "image": {
-        "url": "https://clariana.netlify.app/img/time.png",
+        "url": "imgs/time.png",
         "alt": "Página Inicial do Site da Natura Brasil"
       }
     },
@@ -64,7 +64,7 @@
       "slug": "Web Form Application",
       "name": "Web Form Application",
       "image": {
-        "url": "https://clariana.netlify.app/img/login.png",
+        "url": "imgs/login.png",
         "alt": "login"
       }
     },
@@ -72,7 +72,7 @@
       "slug": "userdash",
       "name": "Modal pop-up",
       "image": {
-        "url": "https://clariana.netlify.app/img/modal.png",
+        "url": "imgs/modal.png",
         "alt": "modal pop up"
       }
     },
@@ -80,7 +80,7 @@
       "slug": "Drum Sounds Project",
       "name": "Drum Sounds Project",
       "image": {
-        "url": "https://clariana.netlify.app/img/drum.png",
+        "url": "imgs/drum.png",
         "alt": "sounds drum"
       }
     }
