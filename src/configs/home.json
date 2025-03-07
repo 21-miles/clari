@@ -1,0 +1,88 @@
+{
+  "aboutMe": {
+    "title": {
+      "default": "Plasure, i am",
+      "bold": "Clariana Abreu"
+    },
+    "description": "I am a front-end developer with a passion for creating interfaces and helping other devs!",
+    "contact": {
+      "link": "",
+      "label": "Get in touch!"
+    },
+
+    "techs": [
+      {
+        "tech": "typescript",
+        "color": "#FFFFFF",
+        "bgcolor": "#2F74C0"
+      },
+      {
+        "tech": "react",
+        "color": "#000000",
+        "bgcolor": "#6BDDFA"
+      },
+      {
+        "tech": "javascript",
+        "color": "#000000",
+        "bgcolor": "#EFD81D"
+      },
+      {
+        "tech": "next.js",
+        "color": "#FFFFFF",
+        "bgcolor": "#000000"
+      }
+    ],
+    "pfp": {
+      "image": {
+        "url": "",
+        "alt": "Clariana Profile"
+      },
+      "experience": {
+        "default": "years of experience",
+        "bold": "2+"
+      }
+    }
+  },
+  "projects": [
+    {
+      "slug": "Register Authentication",
+      "name": "Register Authentication",
+      "image": {
+        "url": "https://clariana.netlify.app/img/authentication.png",
+        "alt": "Página Inicial do Site da Natura Brasil"
+      }
+    },
+    {
+      "slug": "API Weather Forecast",
+      "name": "API Weather Forecast",
+      "image": {
+        "url": "https://clariana.netlify.app/img/time.png",
+        "alt": "Página Inicial do Site da Natura Brasil"
+      }
+    },
+    {
+      "slug": "Web Form Application",
+      "name": "Web Form Application",
+      "image": {
+        "url": "https://clariana.netlify.app/img/login.png",
+        "alt": "login"
+      }
+    },
+    {
+      "slug": "userdash",
+      "name": "Modal pop-up",
+      "image": {
+        "url": "https://clariana.netlify.app/img/modal.png",
+        "alt": "modal pop up"
+      }
+    },
+    {
+      "slug": "Drum Sounds Project",
+      "name": "Drum Sounds Project",
+      "image": {
+        "url": "https://clariana.netlify.app/img/drum.png",
+        "alt": "sounds drum"
+      }
+    }
+  ]
+}
