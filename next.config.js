@@ -7,7 +7,7 @@ const nextConfig = {
         protocol: "https",
         hostname: "**.netlify.app",
         port: "",
-        pathname: "**",
+        pathname: "imgs",
       },
     ],
   },
