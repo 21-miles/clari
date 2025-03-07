@@ -1,16 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: false,
-  images: {
-    remotePatterns: [
-      {
-        protocol: "https",
-        hostname: "**.netlify.app",
-        port: "",
-        pathname: "imgs",
-      },
-    ],
-  },
+  output: "export",
+  trailingSlash: true,
+  swcMinify: true,
+  assetPrefix: isProd ? process.env.WEBSITE_URL : "",
 };
 
 module.exports = nextConfig;
